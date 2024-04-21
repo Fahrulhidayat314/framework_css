@@ -1,0 +1,26 @@
+body{
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+    background: linear-gradient(135deg, #c3def0, #1e37aa);
+}
+article{
+    height: 80vh;
+}
+#logo {
+    font-weight: 600;
+    margin-right: 100px;
+    font-size: 1.7rem;
+    color: #1e37aa;
+}
+.navbar a{
+    font-size: 1.3rem;
+}
+article .bio{
+    width: 80%;
+    margin: 50px auto;
+}
+article .bio td{
+    font-size: 1.2rem;
+}
